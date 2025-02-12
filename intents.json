@@ -10,7 +10,7 @@
   "responses": ["You can call me Devin","I'm Devin","I'm Devin your virtual assistant"]
   },
 
-  {"tag": "courses",
+  {"tag": "classes",
   "patterns": ["what courses are available", "how many courses are there in this college"],
   "responses": ["There are two major bachelor's degree offered by the university namely B.Tech and B.Des.\nThere are several masters degrees as well for instance MBA and M.Tech."]
   },

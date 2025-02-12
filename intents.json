@@ -14,7 +14,7 @@
   "responses": ["There are two major bachelor's degree offered by the university namely B.Tech and B.Des.\nThere are several masters degrees as well for instance MBA and M.Tech."]
   },
 
-   {"tag": "courseDuration",
+   {"tag": "Timings",
   "patterns": ["how long will be B.Des or B.Tech course", "how long will it take to complete B.Tech or B.Des course"],
   "responses": ["Our college offers 4 year long B.Tech and B.Des course."]
   },

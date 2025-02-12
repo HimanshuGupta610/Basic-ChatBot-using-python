@@ -5,29 +5,29 @@
   "responses": ["Hello!","Hey!","What can I do for you?"]
   },
 
-  {"tag": "name",
-  "patterns": ["what is your name","name","what's your name","who are you","what should I call you"],
-  "responses": ["You can call me Devin","I'm Devin","I'm Devin your virtual assistant"]
+  {"tag": "Anxiety",
+  "patterns": ["overwhelmed","stop overthinking","anxiety attack"],
+  "responses": ["Few small things that could help are: \nTry some breathing exercises, \n Listening to music, \n Writing down the thoughts that worry you and also things that you are grateful for."]
   },
 
-  {"tag": "classes",
-  "patterns": ["what courses are available", "how many courses are there in this college"],
-  "responses": ["There are two major bachelor's degree offered by the university namely B.Tech and B.Des.\nThere are several masters degrees as well for instance MBA and M.Tech."]
+  {"tag": "Depression",
+  "patterns": ["motivation", "depressed","no energy to get out of bed","negative thoughts"],
+  "responses": ["Start small and easy like drinking water, making your bed\n Change your environment \n Find external accountability"]
   },
 
-   {"tag": "courseDuration",
-  "patterns": ["how long will be B.Des or B.Tech course", "how long will it take to complete B.Tech or B.Des course"],
-  "responses": ["Our college offers 4 year long B.Tech and B.Des course."]
+   {"tag": "EmotionalSupport",
+  "patterns": ["no one understands me", "lonely","things get better"],
+  "responses": ["Feelings are temporary. Try to divert youself by focusing just on today.\n Reach out to someone, remember you are not alone!!!\n Try to get outside, writing out your thoughts always helps and try to focus on what you can control.\n Remind yourself, YOU MATTER and that you are worthy of love and care even for yourself!"]
   },
 
-   {"tag": "Location",
-  "patterns": ["location","where is it located","what is the location of our college"],
-  "responses": ["Delhi Technological University is located in Shahbad, Daulatpur."]
+   {"tag": "General",
+  "patterns": ["symptoms of depression","professional health","therapy"],
+  "responses": ["There can be emotional, physical or mental symptoms like feeling empty or hopeless, being irritable, energy dropping down or withdrawing from friends and family. \n If these symptoms last longer than a few weeks, professional help can be considered. \n Therapy can be considered, it is basically about expressing yourself to someone. More information regarding therapists in your area can be found on our website."]
   },
 
-  {"tag": "semesters",
-  "patterns": ["how many semesters are there in a year","how many semesters one should study in a year"],
-  "responses": ["There are two semesters in a year."]
+  {"tag": "Crucial",
+  "patterns": ["giving up","suicidal thoughts","therapist","hotline"],
+  "responses": ["Focus on getting through the day.\n Keep yourself safe and try to remove anything dangerous from your reach\n Do one kind thing for yourself\n For hotline numbers and therapists in your area, please checkout our website.\n Andthe most important thing, remember you are not alone!"]
   },
 
   {"tag": "semDuration",
